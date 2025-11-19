@@ -1,0 +1,5 @@
+{
+  "name": "Calcolatore Costo Personale (CCNL Turismo)",
+  "description": "Un'applicazione per calcolare il costo del personale per un'azienda nel settore Turismo e Pubblici Esercizi, partendo dal netto mensile desiderato. Include approfondimenti generati dall'IA.",
+  "requestFramePermissions": []
+}
